@@ -172,7 +172,7 @@ $db=$conn;
 									<h6>Experience</h6>
 									<p><?php echo $experience ?></p>
 									<h6>Salary</h6>
-									<p><?php echo $salary ?>Lakhs/annum</p>
+									<p><?php echo $salary ?>Dirham/DH</p>
 								</div>
 							</div>
 						</div>
@@ -194,13 +194,7 @@ $db=$conn;
                             echo "<div><a href='editForm_premium.php?mode=edit&job_id=$job_id' class='site-btn'>Edit</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href='allfunction1.php?mode=delete_premium&job_id=$job_id' class='site-btn'>Delete</a></div>";
                         }  
                 ?>
-					<div class="social-sharing">
-						<a href=""><i class="fa fa-google-plus"></i></a>
-						<a href=""><i class="fa fa-pinterest"></i></a>
-						<a href=""><i class="fa fa-facebook"></i></a>
-						<a href=""><i class="fa fa-twitter"></i></a>
-						<a href=""><i class="fa fa-youtube"></i></a>
-					</div>
+					
 				</div>
 			</div>
 		</div>

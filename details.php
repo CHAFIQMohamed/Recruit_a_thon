@@ -132,7 +132,7 @@ $db=$conn;
 									<h6>Experience</h6>
 									<p><?php echo $experience ?></p>
 									<h6>Salary</h6>
-									<p><?php echo $salary ?> Lakhs/annum</p>
+									<p><?php echo $salary ?> Dirham/DHS</p>
 								</div>
 							</div>
 						</div>

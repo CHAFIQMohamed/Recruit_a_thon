@@ -69,7 +69,7 @@ $db=mysqli_connect("localhost","root","","job");
                             </div>
                         </div>
                         <div class='pi-text'>
-                            <h6>Rs $job_salary<br>Lakhs/annum</h6>
+                            <h6>Rs $job_salary<br>Dirham/DH</h6>
                             <p>$job_name</p>
                         </div>
                     </div>

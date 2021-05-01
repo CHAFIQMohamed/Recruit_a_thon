@@ -61,7 +61,7 @@
 					</div>
 					<div class="col-xl-6 col-lg-5">
 						<form class="header-search-form">
-							<input type="text" placeholder="Search on technocrat ....">
+							<input type="text" placeholder="Search on Local FL ....">
 							<button><i class="flaticon-search"></i></button>
 						</form>
 					</div>

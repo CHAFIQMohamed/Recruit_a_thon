@@ -252,7 +252,7 @@ input[type=submit]:hover {
     <div class="col-25">
       <label for="name" style="color: white;">Salary</label>
       <div class="col-75" style="color: white;">
-      <input type="number" required="" id="salary" name="salary" placeholder="salary" value="<?php echo $row['salary']; ?>">Lakhs/annum
+      <input type="number" required="" id="salary" name="salary" placeholder="salary" value="<?php echo $row['salary']; ?>">dirham
       </div>
     </div>
   </div>

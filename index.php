@@ -188,7 +188,7 @@ include('functions.php');
             <div class="banner set-bg" data-setbg="img/banner-bg.jpg">
                 <div class="tag-new">PRE</div>
                 
-                <h2>job adding</h2>
+                <h5>find the pro expert in all fields</h5>
                 <a href="form_premium.php" class="site-btn">POST AN AD</a>
             </div>
         </div>

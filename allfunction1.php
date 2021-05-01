@@ -68,7 +68,7 @@ if($conn->query($sql)){
 	}
 
 
-   //STUDENT RESUME
+   //PREMIUM TABLE
     if(isset($_POST['submitbn'])){
 		$user_id = $_POST['user_id'];
 		$name = $_POST['name'];
@@ -129,7 +129,7 @@ if($conn->query($sql)){
 		}	
 	}
     
-    if(isset($_POST['updatebn'])){
+    if(isset($_POST['updatebn_premium'])){
 		$name = $_POST['name'];
 		$email = $_POST['email'];
 		$phone = $_POST['phone'];
@@ -144,7 +144,7 @@ if($conn->query($sql)){
 
         
 
-		$sql = "UPDATE job_table SET user_id='".$user_id."', name='".$name."', email='".$email."', phone='".$phone."',description='".$description."', requirement='".$requirement."', skill='".$skill."', location='".$location."',experience='".$experience."',salary='".$salary."',apply='".$apply."'WHERE job_id='".$job_id."'";
+		$sql = "UPDATE premium_table SET user_id='".$user_id."', name='".$name."', email='".$email."', phone='".$phone."',description='".$description."', requirement='".$requirement."', skill='".$skill."', location='".$location."',experience='".$experience."',salary='".$salary."',apply='".$apply."'WHERE job_id='".$job_id."'";
 	
 		if($conn->query($sql)){
 			header("Location:details.php?job_id='$job_id'");
