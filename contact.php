@@ -20,17 +20,16 @@ include_once('header.php');
 			<div class="row">
 				<div class="col-lg-6 contact-info">
 					<h3>Get in touch</h3>
-					<p>81,Nilgunj Road,Agarpara,Kolkata</p>
-					<p>(+91) 70039 59492</p>
-					<p>techcrat20@gmail.com</p>
+					<p> Lot 660, Hay Moulay Rachid, Ben Guerir 43150</p>
+					<p>(+xxx) xxxxxx</p>
+					<p>localfl@gmail.com</p>
 					<div class="contact-social">
-						<a href="#"><i class="fa fa-pinterest"></i></a>
 						<a href="#"><i class="fa fa-facebook"></i></a>
 						<a href="#"><i class="fa fa-twitter"></i></a>
-						<a href="#"><i class="fa fa-dribbble"></i></a>
-						<a href="#"><i class="fa fa-behance"></i></a>
+						
 					</div>
 					<form class="contact-form">
+						<h3>contact us</h3>
 						<input type="text" placeholder="Your name">
 						<input type="text" placeholder="Your e-mail">
 						<input type="text" placeholder="Subject">
@@ -40,7 +39,7 @@ include_once('header.php');
 				</div>
 			</div>
 		</div>
-		<div class="map"><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3681.386369394708!2d88.3768853149128!3d22.676656485129353!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39f899adb6e5139f%3A0x8e43eace10c1361d!2sNarula%20Institute%20of%20Technology!5e0!3m2!1sen!2sin!4v1591044649559!5m2!1sen!2sin" style="border:0" allowfullscreen></iframe></div>
+		<div class="map"><iframe src="https://www.google.com/maps/place/Universit%C3%A9+Mohammed+VI+Polytechnique/@32.2142642,-7.9351268,16z/data=!4m19!1m13!4m12!1m4!2m2!1d-7.9286758!2d32.209631!4e1!1m6!1m2!1s0xdaf7a3feab1f407:0xbd50c8e7902ffbf9!2sum6p+location+maps!2m2!1d-7.9356577!2d32.2181727!3m4!1s0xdaf7a3feab1f407:0xbd50c8e7902ffbf9!8m2!3d32.2181727!4d-7.9356577"  style="border:0" allowfullscreen></iframe></div>
 	</section>
 	<!-- Contact section end -->
 

@@ -21,7 +21,7 @@ function getPro(){
                             </div>
                         </div>
                         <div class='pi-text'>
-                            <h6>Rs $job_salary<br>Lakhs/annum</h6>
+                            <h6> $job_salary<br>dirham/MAD</h6>
                             <p>$job_name</p>
                         </div>
                     </div>

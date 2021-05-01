@@ -56,7 +56,7 @@
 					<div class="col-lg-2 text-center text-lg-left">
 						<!-- logo -->
 						<a href="index.php" class="site-logo">
-							<img src="img/icons/logo.jpg" alt="">
+							<img src="" alt="">
 						</a>
 					</div>
 					<div class="col-xl-6 col-lg-5">
@@ -78,7 +78,7 @@
                                 ?>
 								
 								
-								<a class="site-btn" href="post_check.php" style="color: white">Post An Add</a>
+								<a class="site-btn" href="form_premium.php" style="color: white">Post a job</a>
                               </div>
 							</div>
 						</div>
@@ -94,7 +94,7 @@
 					<li><a href="job.php">Jobs</a></li>
 					<li><a href="resume_view.php">Resume's</a></li>
 					<li><a href="resume_builder.php">Resume Builder<span class="new">New</span></a></li>
-					<li><a href="data.php">Job Statistics</a></li>
+					<!--<li><a href="data.php">Job Statistics</a></li>-->
 					<li><a href="#">My Account</a>
 						<ul class="sub-menu">
 							<li><a href="dashboard_check.php">Dashboard</a></li>

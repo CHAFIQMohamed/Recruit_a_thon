@@ -1,4 +1,4 @@
-<?php include_once('header.php');?>
+<?php/* include_once('header.php');?>
 <br><br>
  <center><h2>Job Data And Statistics</h2></center>
  
@@ -11,4 +11,4 @@
  <img src="img/icons/data6.jpg">
  <img src="img/icons/data7.jpg">
  </center>
-<?php include_once('footer.php');?>
+<?php include_once('footer.php');?>*/

@@ -91,7 +91,7 @@ include('functions.php');
 </div>
 
     <!-- Features section -->
-    <section class="features-section">
+   <!-- <section class="features-section">
         <div class="container-fluid">
             <div class="row">
                 <div class="col-md-4 p-0 feature">
@@ -120,7 +120,7 @@ include('functions.php');
                 </div>
             </div>
         </div>
-    </section>
+    </section>-->
     <!-- Features section end -->
 
 
@@ -128,7 +128,7 @@ include('functions.php');
     <section class="top-letest-product-section">
         <div class="container">
             <div class="section-title">
-                <h2>PREMIUM</h2>
+                <h2>Available job</h2>
             </div>
             <div class="product-slider owl-carousel">
                 
@@ -139,6 +139,10 @@ include('functions.php');
               
                 
             </div>
+            </div>
+            <div class="text-center pt-5">
+                <button class="site-btn sb-line sb-dark"><a href="job.php" style="color:black ">LOAD MORE</a></button>
+            </div>
         </div>
     </section>
     <!-- letest product section end -->
@@ -146,7 +150,7 @@ include('functions.php');
 
 
     <!-- Product filter section -->
-    <section class="product-filter-section">
+  <!--  <section class="product-filter-section">
         <div class="container">
             <div class="section-title">
                 <h2>PRIMARY</h2>
@@ -161,9 +165,9 @@ include('functions.php');
                 <li><a href="#">JUMPERS</a></li>
                 <li><a href="#">LEGGINGS</a></li>
             </ul> -->
-            <div class="row">
+         <!--   <div class="row">
                <?php
-               getPro();
+             //  getPro();
                ?>
                 
                    
@@ -174,7 +178,7 @@ include('functions.php');
                 <button class="site-btn sb-line sb-dark"><a href="job.php" style="color:black ">LOAD MORE</a></button>
             </div>
         </div>
-    </section>
+    </section>-->
     <!-- Product filter section end -->
 
 
@@ -183,9 +187,9 @@ include('functions.php');
         <div class="container">
             <div class="banner set-bg" data-setbg="img/banner-bg.jpg">
                 <div class="tag-new">PRE</div>
-                <span>New Arrivals</span>
-                <h2>PREMIUM ADS</h2>
-                <a href="post.php" class="site-btn">POST AN AD</a>
+                
+                <h2>job adding</h2>
+                <a href="form_premium.php" class="site-btn">POST AN AD</a>
             </div>
         </div>
     </section>

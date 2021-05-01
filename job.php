@@ -7,7 +7,7 @@ include('functions.php');
 <section class="product-filter-section">
         <div class="container">
             <div class="section-title">
-                <h2>PREMIUM</h2>
+                <h2>Available jobs</h2>
             </div>
             <div class="row">
                <?php
@@ -18,16 +18,16 @@ include('functions.php');
         </section>
 <!-- NORMAL JOB ADDS -->
 <br>
-<section class="product-filter-section">
+<!--<section class="product-filter-section">
         <div class="container">
             <div class="section-title">
-                <h2>PRIMARY</h2>
+                <h2>Available jobs</h2>
             </div>
             <div class="row">
                <?php
-                  getPro();
+                  //getPro();
                 ?>
             </div>
             </div>
-        </section>
+        </section>-->
 <?php include_once('footer.php') ?>
