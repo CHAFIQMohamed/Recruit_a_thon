@@ -24,6 +24,7 @@
   }
 ?>
 			<form action="allfunction1.php" method="post">
+        <a href="index.php"><img src="img/home2.png" height="2%" width="15%"></a>
 				<img src="img/avatar.svg">
 				<h2 class="title">Welcome</h2>
            		<div class="input-div one">

@@ -13,7 +13,7 @@ include_once('header.php');
 CREATE YOUR RESUME'S</b></h3><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a class="site-btn" href="form_check.php" style="color: white">Create</a>
 <br><br>
-<h3>&nbsp;&nbsp;<b>SAMPLE RESUME</b></h3><br>
+<h3>&nbsp;&nbsp;<b>RESUME EXAMPLE</b></h3><br>
 <!-- RESUME -->
 <br>
 
@@ -48,9 +48,9 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
         <br>
         <div class="w3-container">
           
-          <p><i class="fa fa-user fa-fw w3-margin-right w3-large w3-text-teal"></i>Angelina Stuart</p>
-          <p><i class="fa fa-envelope fa-fw w3-margin-right w3-large w3-text-teal"></i>angelinastuart@gmail.com</p>
-          <p><i class="fa fa-home fa-fw w3-margin-right w3-large w3-text-teal"></i>Bakers Colony, Atlanta, United Nations of America</p>
+          <p><i class="fa fa-user fa-fw w3-margin-right w3-large w3-text-teal"></i>Mohamed CHAFIQ</p>
+          <p><i class="fa fa-envelope fa-fw w3-margin-right w3-large w3-text-teal"></i>Mohamed.CHAFIQ@um6p.ma</p>
+          <p><i class="fa fa-home fa-fw w3-margin-right w3-large w3-text-teal"></i>Ben Guerire, Morocco</p>
           <p><i class="fa fa-phone fa-fw w3-margin-right w3-large w3-text-teal"></i>1995465289</p>
           <p><i class="fa fa-address-book fa-fw w3-margin-right w3-large w3-text-teal"></i>Software Engineer</p>
           <hr>
@@ -143,7 +143,7 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
       <div class="w3-container w3-card w3-white w3-margin-bottom">
         <h2 class="w3-text-grey w3-padding-16"><i class="fa fa-institution fa-fw w3-margin-right w3-xxlarge w3-text-teal"></i>Education</h2>
         <div class="w3-container">
-          <h5 class="w3-opacity"><b>B.Tech - Georgia State University (CGPA-8/10)</b></h5>
+          <h5 class="w3-opacity"><b>Mohammed VI polytechenic university</b></h5>
           <!-- <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Jan 2015 - <span class="w3-tag w3-teal w3-round">Current</span></h6>
           <p></p>
           <hr>
@@ -164,7 +164,7 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
       <div class="w3-container w3-card w3-white">
         <h2 class="w3-text-grey w3-padding-16"><i class="fa fa-certificate fa-fw w3-margin-right w3-xxlarge w3-text-teal"></i>Portfolio Links</h2>
         <div class="w3-container">
-          <h5 class="w3-opacity"><b>Links:- https://www.github.com/Angelinapatrick</b></h5>
+          <h5 class="w3-opacity"><b>Links:- https://www.github.com/CHAFIQMohamed</b></h5>
           <!-- <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Forever</h6>
           <p></p>
           <hr>
