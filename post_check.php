@@ -29,7 +29,7 @@ $radio=$row['radio'];
 
 <?php
   if($radio =='recruiter'){
-    header("location:post.php");
+    header("location:form_premium.php");
   exit;
     }
   else

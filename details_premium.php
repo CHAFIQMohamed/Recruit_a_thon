@@ -191,7 +191,7 @@ $db=$conn;
                             echo "<div><a href='$apply' class='site-btn' target='blank'>APPLY HERE</a></div><br>";
                   	 }
                         }else{
-                            echo "<div><a href='editForm_premium.php?mode=edit&job_id=$job_id' class='site-btn'>Edit</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href='allfunction1.php?mode=delete_premium&job_id=$job_id' class='site-btn'>Delete</a></div>";
+                            echo "<div><a href='allfunction1.php?mode=delete_premium&job_id=$job_id' class='site-btn'>Delete</a></div>";
                         }  
                 ?>
 					

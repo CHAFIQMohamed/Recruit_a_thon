@@ -78,7 +78,7 @@
                                 ?>
 								
 								
-								<a class="site-btn" href="form_premium.php" style="color: white">Post a job</a>
+								<a class="site-btn" href="post_check.php" style="color: white">Post a job</a>
                               </div>
 							</div>
 						</div>

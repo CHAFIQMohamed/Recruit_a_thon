@@ -39,7 +39,7 @@ include_once('header.php');
 				</div>
 			</div>
 		</div>
-		<div class="map"><iframe src="https://www.google.com/maps/place/Universit%C3%A9+Mohammed+VI+Polytechnique/@32.2142642,-7.9351268,16z/data=!4m19!1m13!4m12!1m4!2m2!1d-7.9286758!2d32.209631!4e1!1m6!1m2!1s0xdaf7a3feab1f407:0xbd50c8e7902ffbf9!2sum6p+location+maps!2m2!1d-7.9356577!2d32.2181727!3m4!1s0xdaf7a3feab1f407:0xbd50c8e7902ffbf9!8m2!3d32.2181727!4d-7.9356577"  style="border:0" allowfullscreen></iframe></div>
+		<div class="map"><iframe src="https://maps.google.com/maps?q=universit%C3%A9%20mohammed%206&t=&z=13&ie=UTF8&iwloc=&output=embed" style="border:0" allowfullscreen></iframe></div>
 	</section>
 	<!-- Contact section end -->
 

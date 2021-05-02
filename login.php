@@ -25,6 +25,7 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 </head>
 <body>
+  <a href="index.php"><img src="img/home2.png" height="6%" width="6%"></a>
 	<img class="wave" src="img/wave.png">
 	<div class="container">
 		<div class="img">

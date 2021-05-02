@@ -144,7 +144,7 @@ if($conn->query($sql)){
 
         
 
-		$sql = "UPDATE premium_table SET user_id='".$user_id."', name='".$name."', email='".$email."', phone='".$phone."',description='".$description."', requirement='".$requirement."', skill='".$skill."', location='".$location."',experience='".$experience."',salary='".$salary."',apply='".$apply."'WHERE job_id='".$job_id."'";
+		$sql = "UPDATE premium_table SET name='".$name."', email='".$email."', phone='".$phone."',description='".$description."', requirement='".$requirement."', skill='".$skill."', location='".$location."',experience='".$experience."',salary='".$salary."',apply='".$apply."'WHERE job_id='".$job_id."'";
 	
 		if($conn->query($sql)){
 			header("Location:details.php?job_id='$job_id'");

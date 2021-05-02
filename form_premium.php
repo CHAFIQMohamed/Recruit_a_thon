@@ -301,7 +301,7 @@ input[type=submit]:hover {
     <div class="col-25">
       <label for="name" style="color: white;">Company Image 2</label>
       <div class="col-75" text-align="left">
-         <input type="file" required="" align="left" id="img2" name="img2" placeholder="">
+         <input type="file"  align="left" id="img2" name="img2" placeholder="">
       </div>
     </div>
   </div>
@@ -310,7 +310,7 @@ input[type=submit]:hover {
     <div class="col-25">
       <label for="name" style="color: white;">Company Image 3</label>
       <div class="col-75" text-align="left">
-         <input type="file" required="" align="left" id="img3" name="img3" placeholder="">
+         <input type="file" align="left" id="img3" name="img3" placeholder="">
       </div>
     </div>
   </div>
